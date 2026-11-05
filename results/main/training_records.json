@@ -1,0 +1,100 @@
+[
+  {
+    "model": "mean",
+    "seed": 7,
+    "train_seconds": 0.0010634000063873827,
+    "validation_rmse": 1.2003020881907038
+  },
+  {
+    "model": "boosted_trees",
+    "seed": 7,
+    "train_seconds": 0.41066090000094846,
+    "validation_rmse": 0.5788588073274004
+  },
+  {
+    "model": "resnet",
+    "seed": 7,
+    "train_seconds": 5.60676809999859,
+    "best_epoch": 40,
+    "epochs_run": 40,
+    "learning_rate": 0.001,
+    "parameters": 8897,
+    "validation_mse_standardized": 0.2639570188220086
+  },
+  {
+    "model": "resnet",
+    "seed": 17,
+    "train_seconds": 5.832332900026813,
+    "best_epoch": 28,
+    "epochs_run": 38,
+    "learning_rate": 0.001,
+    "parameters": 8897,
+    "validation_mse_standardized": 0.2761685750737245
+  },
+  {
+    "model": "resnet",
+    "seed": 27,
+    "train_seconds": 6.142460100003518,
+    "best_epoch": 37,
+    "epochs_run": 40,
+    "learning_rate": 0.001,
+    "parameters": 8897,
+    "validation_mse_standardized": 0.2699001378142021
+  },
+  {
+    "model": "qnn",
+    "seed": 7,
+    "train_seconds": 111.6922096000053,
+    "best_epoch": 24,
+    "epochs_run": 34,
+    "learning_rate": 0.02,
+    "parameters": 41,
+    "validation_mse_standardized": 0.6602426150824994,
+    "circuit_parameter_change_l2": 5.002951145172119,
+    "circuit_parameters": 32,
+    "qubits": 8,
+    "layers": 2
+  },
+  {
+    "model": "qnn",
+    "seed": 17,
+    "train_seconds": 108.0409450000152,
+    "best_epoch": 22,
+    "epochs_run": 32,
+    "learning_rate": 0.02,
+    "parameters": 41,
+    "validation_mse_standardized": 0.6648079258839377,
+    "circuit_parameter_change_l2": 4.840777397155762,
+    "circuit_parameters": 32,
+    "qubits": 8,
+    "layers": 2
+  },
+  {
+    "model": "qnn",
+    "seed": 27,
+    "train_seconds": 130.85649829998147,
+    "best_epoch": 39,
+    "epochs_run": 40,
+    "learning_rate": 0.02,
+    "parameters": 41,
+    "validation_mse_standardized": 0.5815616657828393,
+    "circuit_parameter_change_l2": 6.671113014221191,
+    "circuit_parameters": 32,
+    "qubits": 8,
+    "layers": 2
+  },
+  {
+    "model": "qnn_1layer",
+    "seed": 7,
+    "train_seconds": 74.16527559998212,
+    "best_epoch": 34,
+    "epochs_run": 40,
+    "learning_rate": 0.02,
+    "parameters": 25,
+    "validation_mse_standardized": 0.9358332721995438,
+    "circuit_parameter_change_l2": 3.281132459640503,
+    "circuit_parameters": 16,
+    "qubits": 8,
+    "layers": 1
+  }
+]

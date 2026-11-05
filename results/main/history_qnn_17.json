@@ -1,0 +1,162 @@
+[
+  {
+    "epoch": 1,
+    "train_mse_standardized": 0.9993607494980097,
+    "val_mse_standardized": 1.0282418359410452
+  },
+  {
+    "epoch": 2,
+    "train_mse_standardized": 0.9018618371337652,
+    "val_mse_standardized": 0.9280973508885224
+  },
+  {
+    "epoch": 3,
+    "train_mse_standardized": 0.7548236418515444,
+    "val_mse_standardized": 0.8395867565654758
+  },
+  {
+    "epoch": 4,
+    "train_mse_standardized": 0.6867450587451458,
+    "val_mse_standardized": 0.8095650370677376
+  },
+  {
+    "epoch": 5,
+    "train_mse_standardized": 0.6546341488137841,
+    "val_mse_standardized": 0.7771988001537519
+  },
+  {
+    "epoch": 6,
+    "train_mse_standardized": 0.6377041153609753,
+    "val_mse_standardized": 0.7613590471693197
+  },
+  {
+    "epoch": 7,
+    "train_mse_standardized": 0.614858441054821,
+    "val_mse_standardized": 0.7350812991433834
+  },
+  {
+    "epoch": 8,
+    "train_mse_standardized": 0.6005992628633976,
+    "val_mse_standardized": 0.7236849861711242
+  },
+  {
+    "epoch": 9,
+    "train_mse_standardized": 0.5895822532474995,
+    "val_mse_standardized": 0.7061057938750255
+  },
+  {
+    "epoch": 10,
+    "train_mse_standardized": 0.5778656676411629,
+    "val_mse_standardized": 0.6988585065425139
+  },
+  {
+    "epoch": 11,
+    "train_mse_standardized": 0.5774086955934763,
+    "val_mse_standardized": 0.6992867751467082
+  },
+  {
+    "epoch": 12,
+    "train_mse_standardized": 0.5678641432896256,
+    "val_mse_standardized": 0.6941378100442174
+  },
+  {
+    "epoch": 13,
+    "train_mse_standardized": 0.5636792872101068,
+    "val_mse_standardized": 0.6852688509491769
+  },
+  {
+    "epoch": 14,
+    "train_mse_standardized": 0.563706767745316,
+    "val_mse_standardized": 0.6861858223376875
+  },
+  {
+    "epoch": 15,
+    "train_mse_standardized": 0.5599856898188591,
+    "val_mse_standardized": 0.6872319180473643
+  },
+  {
+    "epoch": 16,
+    "train_mse_standardized": 0.5554314469918609,
+    "val_mse_standardized": 0.6822604192247268
+  },
+  {
+    "epoch": 17,
+    "train_mse_standardized": 0.5647532222792506,
+    "val_mse_standardized": 0.6690719858289609
+  },
+  {
+    "epoch": 18,
+    "train_mse_standardized": 0.554835170507431,
+    "val_mse_standardized": 0.6723783301348933
+  },
+  {
+    "epoch": 19,
+    "train_mse_standardized": 0.5498509518802166,
+    "val_mse_standardized": 0.6840136392848483
+  },
+  {
+    "epoch": 20,
+    "train_mse_standardized": 0.5486029461026192,
+    "val_mse_standardized": 0.6801987028746119
+  },
+  {
+    "epoch": 21,
+    "train_mse_standardized": 0.5549293849617243,
+    "val_mse_standardized": 0.6845230984336231
+  },
+  {
+    "epoch": 22,
+    "train_mse_standardized": 0.547356741502881,
+    "val_mse_standardized": 0.6648079258839377
+  },
+  {
+    "epoch": 23,
+    "train_mse_standardized": 0.5500686848536134,
+    "val_mse_standardized": 0.6841645812663937
+  },
+  {
+    "epoch": 24,
+    "train_mse_standardized": 0.5531105743721128,
+    "val_mse_standardized": 0.6720016957676596
+  },
+  {
+    "epoch": 25,
+    "train_mse_standardized": 0.5469010081142187,
+    "val_mse_standardized": 0.6659145549975575
+  },
+  {
+    "epoch": 26,
+    "train_mse_standardized": 0.5493452660739422,
+    "val_mse_standardized": 0.6811843069202975
+  },
+  {
+    "epoch": 27,
+    "train_mse_standardized": 0.5518518537282944,
+    "val_mse_standardized": 0.6694647436571142
+  },
+  {
+    "epoch": 28,
+    "train_mse_standardized": 0.5545159857720137,
+    "val_mse_standardized": 0.6722344762546505
+  },
+  {
+    "epoch": 29,
+    "train_mse_standardized": 0.5498601300641894,
+    "val_mse_standardized": 0.6673832435784905
+  },
+  {
+    "epoch": 30,
+    "train_mse_standardized": 0.5416094604879618,
+    "val_mse_standardized": 0.6859242828123457
+  },
+  {
+    "epoch": 31,
+    "train_mse_standardized": 0.5476479353383183,
+    "val_mse_standardized": 0.6785774971430286
+  },
+  {
+    "epoch": 32,
+    "train_mse_standardized": 0.5462121274322271,
+    "val_mse_standardized": 0.6699783065519933
+  }
+]

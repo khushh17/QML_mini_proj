@@ -1,0 +1,33 @@
+# Local environments and secrets (keep installed locally, never upload)
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Caches, temporary files and build outputs
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+tmp/
+*.log
+
+# Extra experiments; retain the main run's reproducibility evidence
+results/*
+!results/main/
+
+# Editor / operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

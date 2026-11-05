@@ -1,0 +1,10 @@
+{
+  "unit_tests_passed": 8,
+  "checkpoint_predictions_reproduced": true,
+  "all_nine_run_metrics_reproduced": true,
+  "shared_split_disjointness": true,
+  "preprocessing_matches_training_subset": true,
+  "all_saved_quantum_circuits_updated": true,
+  "test_rows": 4128,
+  "comparison_tolerance": 1e-10
+}

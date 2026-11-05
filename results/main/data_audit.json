@@ -1,0 +1,31 @@
+{
+  "rows": 20640,
+  "features": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ],
+  "raw_columns": 9,
+  "sha256": "a2b44dcc7e1c9091b43c4f458b25cbd1f7e8068d08edd26bc4703108d3fa6214",
+  "missing_or_nonfinite": 0,
+  "duplicate_raw_rows": 0,
+  "target_min_dollars": 14999.0,
+  "target_max_dollars": 500001.0,
+  "rows_at_maximum": 965,
+  "first_features": [
+    8.3252,
+    41.0,
+    6.984126984126984,
+    1.0238095238095237,
+    322.0,
+    2.5555555555555554,
+    37.88,
+    -122.23
+  ],
+  "first_target": 4.526
+}

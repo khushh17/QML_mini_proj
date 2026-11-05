@@ -1,0 +1,62 @@
+[
+  {
+    "model": "mean",
+    "runs": 1,
+    "rmse_mean": 1.1456885285997298,
+    "rmse_std": null,
+    "mae_mean": 0.9122471587519682,
+    "mae_std": null,
+    "r2_mean": -0.0016736960449237337,
+    "r2_std": null,
+    "train_seconds_mean": 0.0010634000063873827,
+    "train_seconds_std": null
+  },
+  {
+    "model": "boosted_trees",
+    "runs": 1,
+    "rmse_mean": 0.5227823103731974,
+    "rmse_std": null,
+    "mae_mean": 0.3507261022736778,
+    "mae_std": null,
+    "r2_mean": 0.7914381322340912,
+    "r2_std": null,
+    "train_seconds_mean": 0.41066090000094846,
+    "train_seconds_std": null
+  },
+  {
+    "model": "resnet",
+    "runs": 3,
+    "rmse_mean": 0.5801081074740989,
+    "rmse_std": 0.006468922819594768,
+    "mae_mean": 0.3956316893506966,
+    "mae_std": 0.005460222423656676,
+    "r2_mean": 0.7431692548505463,
+    "r2_std": 0.005729866358743824,
+    "train_seconds_mean": 5.860520366676307,
+    "train_seconds_std": 0.26895609246567986
+  },
+  {
+    "model": "qnn",
+    "runs": 3,
+    "rmse_mean": 0.8846756587681727,
+    "rmse_std": 0.011934167787678578,
+    "mae_mean": 0.6710261761288362,
+    "mae_std": 0.006692494202988,
+    "r2_mean": 0.4026704763260098,
+    "r2_std": 0.016073507741182828,
+    "train_seconds_mean": 116.86321763333399,
+    "train_seconds_std": 12.255278909778545
+  },
+  {
+    "model": "qnn_1layer",
+    "runs": 1,
+    "rmse_mean": 1.086191915844512,
+    "rmse_std": null,
+    "mae_mean": 0.8508717894633553,
+    "mae_std": null,
+    "r2_mean": 0.09966056579545213,
+    "r2_std": null,
+    "train_seconds_mean": 74.16527559998212,
+    "train_seconds_std": null
+  }
+]

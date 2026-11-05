@@ -1,0 +1,30 @@
+{
+  "train_rows": 2048,
+  "validation_rows": 512,
+  "test_rows": 4128,
+  "unused_rows": 13952,
+  "model_seeds": [
+    7,
+    17,
+    27
+  ],
+  "split_seed": 42,
+  "max_epochs": 40,
+  "batch_size": 64,
+  "patience": 10,
+  "threads": 2,
+  "ablation": true,
+  "main_qnn_layers": 2,
+  "tuning": "fixed configurations; no hyperparameter search",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+  "packages": {
+    "numpy": "2.3.4",
+    "scipy": "1.16.2",
+    "scikit-learn": "1.7.2",
+    "torch": "2.5.1+cpu",
+    "pennylane": "0.43.0",
+    "matplotlib": "3.10.7"
+  }
+}

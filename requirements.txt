@@ -1,0 +1,11 @@
+# Python 3.11 or 3.12 recommended. Install CPU PyTorch first (see README).
+torch==2.5.1
+pennylane==0.43.0
+# PennyLane imports gast directly; newer transitive dependencies may omit it.
+gast==0.6.0
+numpy==2.3.4
+scipy==1.16.2
+scikit-learn==1.7.2
+matplotlib==3.10.7
+reportlab==4.4.4
+pypdf==6.1.1
