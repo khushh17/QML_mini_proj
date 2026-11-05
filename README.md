@@ -20,7 +20,7 @@ requirements.txt       Pinned project dependencies
 requirements-lock.txt  Recorded Windows environment
 ```
 
-The report is `output/pdf/Final_Quantum_Computing_Project_Report.pdf`. Its GitHub link is awaiting the team's repository URL. Old study guides, duplicate images and smoke-run outputs have been removed. Main-run evidence is retained so the report can be checked and the models reused.
+The report is `output/pdf/Final_Quantum_Computing_Project_Report.pdf`. Project repository: [khushh17/QML_mini_proj](https://github.com/khushh17/QML_mini_proj). Old study guides, duplicate images and smoke-run outputs have been removed. Main-run evidence is retained so the report can be checked and the models reused.
 
 ## Setup
 

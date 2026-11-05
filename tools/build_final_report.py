@@ -190,7 +190,8 @@ sub('5.2 Future Improvements')
 p('Increase the training subset when compute permits; tune models using validation data with a declared budget; repeat the one-layer comparison across multiple seeds; and test several data splits, including geographical holdouts. Compare encodings and entangling layouts through controlled experiments. Add finite-shot and explicit noise simulations before making claims about hardware suitability. Consider hardware execution only after documenting gate mapping and measurement costs.')
 p('Further changes should be selected using validation results, with a fresh or strictly protected final test evaluation. Repeatedly redesigning models based on the same test set would weaken the reliability of the reported results.')
 sub('5.3 GitHub Repository Link')
-p('Not provided. The completed source code is currently available in the local QC_QML project folder. Add the team\'s actual repository URL before submission if a hosted repository is required. The paper authors\' repository in the references is not this project\'s repository.')
+p('<link href="https://github.com/khushh17/QML_mini_proj" color="black">https://github.com/khushh17/QML_mini_proj</link>')
+p('Project repository supplied by the team. It is separate from the paper authors\' reference implementation listed in the references.')
 
 page('References')
 refs = [
